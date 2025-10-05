@@ -2,6 +2,7 @@ import Link from "next/link";
 import React from "react";
 import { TestimonialsBlock } from "@/components/import";
 import TextReviews from "./Textreviews";
+import TextReviews2 from "./Textreviews2";
 import Image from "next/image";
 
 function CompanyTrust() {
@@ -80,6 +81,7 @@ function CompanyTrust() {
       </div>
       <TestimonialsBlock />
       <TextReviews />
+      <TextReviews2 />
       <div className="group-12230" style={{ paddingTop: "50px" }}>
         <h1 className="bebasneue-normal-thunder-98px ">Companies trust</h1>
         <div className="group-12229">
